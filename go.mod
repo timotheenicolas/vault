@@ -1,4 +1,4 @@
-module github.com/hashicorp/vault
+module github.com/timotheenicolas/vault
 
 go 1.13
 
